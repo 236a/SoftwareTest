@@ -1,2 +1,2 @@
 # SoftwareTest
-# LicealText
+# LicealText。
